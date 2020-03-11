@@ -11,3 +11,7 @@ In this project we are going to make a Heart Beat Detection and Monitoring Syste
 * [Pulse Sensor](https://pulsesensor.com/) - Hardware
 * LCD,10k Potentiometer,1k Resistors,220 Ohm Resistors,Connecting wires
 
+### Prerequisites
+* [Arduino IDE](https://www.arduino.cc/en/main/software)
+* [PulseSensorPlayground Library](http://downloads.arduino.cc/libraries/github.com/WorldFamousElectronics/PulseSensor_Playground-1.2.2.zip)
+* [SoftwareSerial Library](https://www.arduino.cc/en/Reference/softwareSerial)
