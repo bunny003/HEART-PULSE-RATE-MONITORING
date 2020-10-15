@@ -1,4 +1,4 @@
-# PULSE-RATE-MONITORING
+# Pulse Rate Monitoring
 Heart Beat Detection and Monitoring System using Arduino UNO that detects heart beat of user using Pulse Sensor and uploads readings to [ThingSpeak](https://thingspeak.com/) Server using the ESP8266 Wi-Fi module , so that Pulse Rate can be monitored from anywhere in the world over the Internet.
 ## Getting Started
 
